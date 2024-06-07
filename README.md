@@ -35,14 +35,6 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Sandeepkumargond&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> 
 <!--
 **Sandeepkumargond/Sandeepkumargond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
