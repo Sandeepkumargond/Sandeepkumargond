@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Gond</h1>
-<h3 align="center">I am a driven BTech student at the prestigious National Institute of Technology, Patna, with a profound passion for crafting cross-platform applications and building responsive, full-stack websites. Beyond just coding, I'm honing my problem-solving prowess and mastering data structures and algorithms, recognizing their pivotal role in shaping robust software solutions. My dedication to both development and the theoretical underpinnings of computer science showcases my commitment to becoming a well-rounded technologist. With each line of code I write and each algorithm I optimize, I'm inching closer to realizing my aspirations of becoming a proficient tech professional capable of leveraging technology to solve real-world challenges.</h3>
+<h3 align="center">I am currently pursuing a Bachelor of Technology in Computer Science and Engineering from National Institute of Technology Patna.</h3>
 
 - 🌱 I’m currently learning **Web Development and Data structures and Algorithms**
 
