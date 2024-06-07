@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Gond</h1>
-<h3 align="center">I am currently pursuing a Bachelor of Technology in Computer Science and Engineering from National Institute of Technology Patna.</h3>
+<h3 align="center">I am currently pursuing Bachelor of Technology in Computer Science and Engineering from National Institute of Technology Patna.</h3>
 
 - 🌱 I’m currently learning **Web Development and Data structures and Algorithms**
 
