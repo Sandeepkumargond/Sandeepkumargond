@@ -1,51 +1,109 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar Gond</h1>
-<h3 align="center">I am currently pursuing Bachelor of Technology in Computer Science and Engineering from National Institute of Technology Patna.</h3>
+<h1 style="color:#9B5DE5;">Hi, I'm Sandeep Kumar Gond</h1>
 
-- 🌱 I’m currently learning **Web Development and Data structures and Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sandeepkumargond](https://github.com/Sandeepkumargond)]
-
-- 📫 How to reach me **sandeepg.ug23.cs@nitp.ac.in**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sandeep-kumar-gond-2b6280290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-kumar-gond-2b6280290" height="30" width="40" /></a><a href="https://www.instagram.com/sandeepkr_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeepkr_04" height="30" width="40" /></a>
+<p style="color:#CDB4DB;">
+Computer Science and Engineering undergraduate at  
+<b>National Institute of Technology, Patna</b>,  
+focused on <b>Data Structures & Algorithms</b> and  
+<b>Full Stack Web Development</b>, with strong foundations in core computer science subjects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cppprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<b>Email:</b> <span style="color:#B5179E;">sandeepg.ug23.cs@nitp.ac.in</span>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
+  </a>&nbsp;
+  <a href="https://github.com/Sandeepkumargond" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="32"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="32"/>
+  </a>
 </p>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sandeepkumargond&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>
+  <img 
+    src="https://raw.githubusercontent.com/Sandeepkumargond/Sandeepkumargond/main/developer.jpg"
+    width="100%"
+    height="400"
+    style="object-fit: cover;"
+  />
+</p>
 
-</td><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepkumargond&hide_border=true&layout=compact" align="left" style="width: 100%" />
+## Technical Skills
 
-</td></tr></table>  
+### Programming Languages
+C, C++, Java, Python, JavaScript, HTML, CSS
 
-<br/>  
+### Frameworks and Libraries
+React.js, Next.js, Node.js, Express.js, Tailwind CSS
 
-  
+### Databases
+MongoDB, MySQL
 
-<br/>  
+### Developer Tools
+Git and GitHub, Postman, Figma, Linux
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Sandeepkumargond&&style=flat-square)  
-  
-<!--
-**Sandeepkumargond/Sandeepkumargond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Core Computer Science Subjects
+Object-Oriented Programming  
+Database Management Systems  
+Operating Systems  
+Computer Networks  
 
-Here are some ideas to get you started:
+### Soft Skills
+Public Speaking, Leadership, Teamwork, Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Interest
+- Full Stack Web Development  
+- Data Structures and Algorithms  
+- Scalable Software Systems  
+
+---
+
+## Current Focus
+- Strengthening DSA for technical interviews  
+- Building full-stack web applications using modern frameworks  
+- Improving code quality and system design fundamentals  
+- Preparing for internships and software engineering roles  
+
+---
+
+## GitHub Overview
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepkumargond&theme=react-dark&color=9B5DE5&line=9B5DE5&point=C77DFF&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/9B5DE5/Sandeepkumargond" 
+    alt="GitHub Contribution Heatmap"
+  />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandeepkumargond&theme=dracula"/>
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandeepkumargond&theme=dracula&utcOffset=5.5"/>
+</p>
+
+---
+
+<p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:9D4EDD,100:C77DFF&height=120&section=footer"
+    width="100%"
+  />
+</p>
