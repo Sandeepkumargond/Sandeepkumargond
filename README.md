@@ -25,16 +25,6 @@ focused on <b>Data Structures & Algorithms</b> and
   </a>
 </p>
 
----
-
-<p>
-  <img 
-    src="https://raw.githubusercontent.com/Sandeepkumargond/Sandeepkumargond/main/developer.jpg"
-    width="100%"
-    height="400"
-    style="object-fit: cover;"
-  />
-</p>
 
 ---
 
