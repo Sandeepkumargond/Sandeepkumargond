@@ -14,7 +14,7 @@ focused on <b>Data Structures & Algorithms</b> and
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/sandeepkrgond/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
   </a>&nbsp;
   <a href="https://github.com/Sandeepkumargond" target="_blank">
