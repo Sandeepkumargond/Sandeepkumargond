@@ -1,73 +1,90 @@
-<h1 style="color:#9B5DE5;">Hi, I'm Sandeep Kumar Gond</h1>
+<h1 align="center">Hi, I'm Sandeep Kumar Gond</h1>
 
-<p style="color:#CDB4DB;">
-Computer Science and Engineering undergraduate at  
-<b>National Institute of Technology, Patna</b>,  
-focused on <b>Data Structures & Algorithms</b> and  
-<b>Full Stack Web Development</b>, with strong foundations in core computer science subjects.
+<p align="center">
+Computer Science & Engineering undergraduate at <b>NIT Patna</b> passionate about
+<b>Full-Stack Development</b>, <b>Data Structures & Algorithms</b>, and building scalable web applications.
 </p>
 
-<b>Email:</b> <span style="color:#B5179E;">sandeepg.ug23.cs@nitp.ac.in</span>
+<p align="center">
+📧 <b>Email:</b> work.sandeepkumargond@gmail.com
+</p>
 
 ---
 
-## Connect
+## Connect With Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/sandeepkrgond/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
-  </a>&nbsp;
-  <a href="https://github.com/Sandeepkumargond" target="_blank">
+  </a>
+  &nbsp;
+  <a href="https://github.com/sandeepkumargond" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="32"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sandeepkr_04/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="32"/>
   </a>
 </p>
 
+---
+
+## About Me
+
+- Full-Stack Developer Intern at **IIT Ropar (NPTEL Winter Internship)**
+- Web Team Lead at **IEEE SB NIT Patna**
+- Finalist at **Smart India Hackathon (SIH) 2025**
+- Qualified for **Adobe India Hackathon Round 2**
+- Solved **1200+ DSA problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
-C, C++, Java, Python, JavaScript, HTML, CSS
+### Languages
+C, C++, Java, Python, JavaScript, TypeScript, HTML, CSS
 
-### Frameworks and Libraries
+### Frameworks & Libraries
 React.js, Next.js, Node.js, Express.js, Tailwind CSS
 
 ### Databases
 MongoDB, MySQL
 
 ### Developer Tools
-Git and GitHub, Postman, Figma, Linux
+Git, GitHub, Docker, Postman, Figma
 
-### Core Computer Science Subjects
-Object-Oriented Programming  
-Database Management Systems  
-Operating Systems  
-Computer Networks  
-
-### Soft Skills
-Public Speaking, Leadership, Teamwork, Problem Solving
+### Coursework
+Object-Oriented Programming (OOP)  
+Database Management Systems (DBMS)  
+Operating Systems (OS)  
+Computer Networks (CN)
 
 ---
 
-## Areas of Interest
-- Full Stack Web Development  
-- Data Structures and Algorithms  
-- Scalable Software Systems  
+## Featured Projects
+
+### ChargeLoop
+- Peer-to-peer EV charging marketplace
+- JWT Authentication, Google OAuth & RBAC
+- Geospatial charger discovery using React Leaflet
+- Secure host onboarding and admin approval workflows
+
+### Auctus – Trust-First Auction Marketplace
+- Real-time bidding with Socket.io
+- Escrow wallet and automated settlement engine
+- KYC verification and role-based access control
+- Gemini AI-powered auction assistance
 
 ---
 
 ## Current Focus
-- Strengthening DSA for technical interviews  
-- Building full-stack web applications using modern frameworks  
-- Improving code quality and system design fundamentals  
-- Preparing for internships and software engineering roles  
+
+- Advanced Data Structures & Algorithms
+- Competitive Programming
+- Full-Stack Development with MERN & Next.js
+- Software Engineering Internships and SDE Roles
 
 ---
-
 ## GitHub Overview
 
 <p>
