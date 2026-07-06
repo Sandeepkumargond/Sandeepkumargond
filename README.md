@@ -14,7 +14,7 @@ Computer Science & Engineering undergraduate at <b>NIT Patna</b> passionate abou
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandeepkrgond/" target="_blank">
+  <a href="https://www.linkedin.com/in/sandeepkumargond/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
   </a>
   &nbsp;
